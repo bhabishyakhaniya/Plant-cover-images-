@@ -1,2 +1,2 @@
-# Plant-cover-images-
-The file contains plant cover images of the bioretention sites in Toronto. The images were taken in July 2024. The images provided here are associated with manuscript titled: Road salt reduces vegetation cover in the bioretention system within road right-of-way. 
+Appendix: supplementary data
+This repository provides supplementary materials for the research paper titled "Road Salt Reduces Vegetation Cover in Bioretention Systems within the Road Right-of-Way." It includes plant cover images from bioretention sites in Toronto, Caanda and additional supplementary information compiled in a word document.
